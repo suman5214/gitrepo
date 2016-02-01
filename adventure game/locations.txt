@@ -1,0 +1,53 @@
+LOCATION -1
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION 1
+You are on the first floor of the UTM Library. There is an empty study room to the South, an exit from the library to the North.
+You are on the first floor of the UTM Library. It's usually crowded at this time of the day, but today it's eerily quiet.
+Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands near the
+service desk, looking bored and sleepy. There is an empty study room to the South, an exit from the library to the North.
+hint: type menu for all commands you can use
+END
+
+LOCATION 2
+This study room is completely empty.
+You are in an empty study room. And by empty, we mean, absolutely empty. All the tables and chairs have been taken out,
+the whiteboards taken off the wall, not even the carpeting is left. Are they planning to do something else with this space?
+hint: type menu for all commands you can use
+END
+
+LOCATION 3
+You are outside of the library. There is a Starbucks to the North.
+You are outside of the library in a crowded hallway. There is a smell of coffee in the air. There is a Starbucks to the North.
+hint: type menu for all commands you can use
+END
+
+LOCATION 4
+You are in the cafeteria.There is a Pizza Pizza ahead, located just slightly to the left of you.
+You are in the cafeteria surrounded by a selection of fastfood restuarants. A couple students are waiting in line to microwave their lunch. 
+Are you feeling hungry? There's a Pizza Pizza ahead of you. 
+hint: type menu for all commands you can use
+END
+
+LOCATION 5
+You are on the hallway. A couple students have arrived to their tutuorial early.
+You are on the hallway outside of your Mat223 tutorial. It is only 2:10PM but a couple keen students have already arrived at the tutorial
+extra early to discuss the new problem set. Do you have anything in particular you want to reach out for clarification?
+GOAL: find all of the required items prior to the exam starting: lucky pencil, student ID and cheat sheet
+hint: type menu for all commands you can use
+END
+
+LOCATION 6
+You are at the exam center. There's no one in the building. 
+You are at the exam center. It is not exam period yet, so the rooms are all empty and all the lights are shut off. Did you start studying for your exams yet?
+hint: type menu for all commands you can use
+END
+
+LOCATION 7
+You are in the book store. The store is quite crowded today.
+You are in the book store. Are they having a huge sale? Would you like to check it out because the store looks pretty packed today.
+The line-up at the cashier is particularily long too. 
+hint: type menu for all commands you can use
+END

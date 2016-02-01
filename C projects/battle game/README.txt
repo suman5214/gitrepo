@@ -1,0 +1,1 @@
+Forgot to implement a function to check the length of string that the user inputs. This will cause the program to break down if name length > 20 bytes and message length > 50 bytes. A simple solution would be using the existed struct element namecounter and speakcounter to check if the string has exceeded maximum length and force to return.

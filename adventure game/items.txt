@@ -1,0 +1,23 @@
+1,-1,-1,cash machine,cash,-1
+1,-1,-1,text book,red key,1
+1,-1,-1,mp3 player,None,1
+2,-1,-1,study desk,None,-1
+2,-1,-1,lamp,metal screw,1
+2,-1,-1,eraser,None,1
+2,-1,-1,pencil,magnet,1
+3,-1,-1,coffee cup,metal spoon,1
+3,-1,-1,coffee desk,None,-1
+3,-1,-1,chair,None,-1
+4,-1,-1,fridge,blue key,-1
+4,-1,-1,microwave,None,-1
+4,-1,-1,metal fork,None,1
+4,-1,-1,plastic plate,None,1
+5,-1,-1,vendor machine,magnet,-1
+5,-1,-1,mysterious box,yellow key,-1
+7,-1,-1,calculator,None,1
+7,-1,-1,carpet,magnet,-1
+7,-1,-1,text book,None,1
+7,-1,-1,water bottle,None,1
+2,6,-1,red treasure box,student id,-1
+4,6,-1,blue treasure box,lucky pencil,-1
+7,6,-1,yellow treasure box,cheat sheet,-1

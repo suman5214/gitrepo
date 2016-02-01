@@ -1,0 +1,9 @@
+Speacial Commands :
+
+1.examine (item name) : will check if there is anything secrect hidden behind the item
+
+2.use (item name) on (item name) : will produce new item if the correct combination of items are used. For example : 
+			magnet + metal object = detectro
+			color key + color treasure box = required items
+			cash + vendor machine = magnet
+		

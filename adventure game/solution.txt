@@ -1,0 +1,60 @@
+go east
+go south
+examine carpet
+inventory
+go north
+go north
+use magnet on metal fork
+inventory
+score
+use detector on fridge
+inventory
+use blue key on blue treasure box
+inventory
+score
+go south
+go west
+go west
+examine cash machine
+inventory
+go east
+use cash on vendor machine
+inventory
+score
+go west
+go south
+examine lamp
+inventory
+use magnet on metal screw
+inventory
+score
+go north
+use detector on text book
+inventory
+score
+go south
+use red key on red treasure box
+inventory
+score
+examine pencil
+inventory
+go north
+go north
+examine coffee cup
+use magnet on metal spoon
+score
+go south
+go east
+use detector on mysterious box
+inventory
+go east
+go south
+use yellow key on yellow treasure box
+inventory
+score
+go north
+drop lucky pencil
+inventory
+drop student id
+inventory
+drop cheat sheet

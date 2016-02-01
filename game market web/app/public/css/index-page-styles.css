@@ -1,0 +1,335 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.logo {
+    width: 100%;
+	margin-bottom: 15px;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.posting-caption{
+	width: 100%;
+	height: 100%;
+    overflow: auto;
+	padding-top: 2%;
+	padding-bottom: 5%;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.posting-caption h4, p{
+	padding-left: 10px;
+}
+
+.thumbnail img {
+    width: 100%;
+	height: 20%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+.comment{
+	padding: 2px;
+	color: #333;
+	display: block;
+	padding: 4px;
+	margin-bottom: 20px;
+	line-height: 1.42857143;
+	background-color: #fff;
+
+}
+
+.col-xs-searchbar{
+	position: relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+	float: left;
+	width: 91.6%;
+}
+  
+.btn-responsive {
+	height: 4%;
+	width: 8.25%;
+	font-size: calc((1vw + 1.25vh)/2);
+	text-align: center;
+  }
+  
+ .social-media{
+	text-align: center;
+	padding-bottom: 10px;
+ }
+ 
+ .media-icons{
+	padding: 10px;
+ }
+ 
+.customer {
+	padding-bottom 15px;
+}
+	
+.customer-posting{
+	color: #333;
+	height: 35%;
+	width: 100%;
+}
+
+.mytext{
+	width: 100%;
+	height: 64%;
+	padding: 10px;
+}
+
+.mybutton{
+	width: 150px;
+	height: 40px;
+}
+
+.seller-profile {
+  display: inline-block;
+  padding: 4px;
+  width: 25%;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+}
+
+.seller-product {
+  display: inline-block;
+  padding: 4px;
+  width: 100%;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+}
+
+.seller-product p{
+	padding-right: 2px;
+}
+
+.seller-profile p{
+	padding-right: 2px;
+}
+
+.product-listing{
+	display: inline-block;
+	padding: 4px;
+	margin-bottom: 20px;
+	line-height: 1.42857143;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	width: 100%;
+	height: 100%;
+}
+
+.product-info-left{
+	width: 70%;
+	height: 100%;
+}
+
+.product-info-right{
+	width: 25%;
+	height: 100%;
+}
+
+.contact-info{
+	font-size: 18px;
+}
+
+.posting{
+	padding: 25px;
+}
+
+.response-box{
+	height:100%;
+	padding-top:3%;
+}
+
+.table-user-information > tbody > tr {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+.table-user-information > tbody > tr:first-child {
+    border-top: 0;
+}
+
+.table-user-information > tbody > tr > td {
+    border-top: 0;
+}
+
+.contact-information > tbody > tr:first-child {
+    border-top: 0;
+}
+
+.contact-information > tbody > tr > td {
+    border-top: 0;
+}
+
+.team-info{
+	border: 1px solid #ddd;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	background: #253340;
+	color: #fff;
+	font-family: Calibri;
+}
+
+.border{
+	border: 5px solid #ddd;
+}
+
+.team-social{
+	position: relative;
+	z-index: 1000;
+}
+
+.about-info{
+	width: 70%;
+	margin-left: 15%;
+	padding-bottom: 3%;
+	font-size: 20px;
+}
+
+.about-info p{
+	font-size: 17px;
+}
+
+.contact-ways{
+	width: 50%;
+	margin-left: 25%;
+	padding-bottom 3%;
+	font-size: 20px;
+}
+
+.contact-form{
+	width: 50%;
+	margin-left: 25%;
+	padding-bottom: 5%;
+}
+
+.fa{
+	font-size: 25px;
+}
+
+.center-table{
+	margin: 0 auto;
+	float: none;
+}
+
+.center-table td{
+	padding: 8px;
+}
+
+/*Page Hover Test, Source: http://www.cssscript.com/transparent-image-hover-overlay-with-pure-css-css3/*/
+.media {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+.media__image { display: block; }
+
+.media__body {
+  background: f5f5f5;
+  bottom: 0;
+  color: white;
+  font-size: 1em;
+  left: 0;
+  opacity: 0;
+  overflow: hidden;
+  padding: 3.75em 3em;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  right: 0;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+.media__body:hover { opacity: 1; }
+
+.media__body:after,
+.media__body:before {
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  bottom: 1em;
+  content: '';
+  left: 1em;
+  opacity: 0;
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+  -webkit-transition: 0.6s 0.2s;
+  transition: 0.6s 0.2s;
+}
+
+.media__body:before {
+  border-bottom: none;
+  border-top: none;
+  left: 2em;
+  right: 2em;
+}
+
+.media__body:after {
+  border-left: none;
+  border-right: none;
+  bottom: 2em;
+  top: 2em;
+}
+
+.media__body:hover:after,
+.media__body:hover:before {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  opacity: 1;
+}
+
+.media__body h2 { margin-top: 0; }
+
+.media__body p { margin-bottom: 1.5em; }
+/*Page Hover Test*/
+
+
